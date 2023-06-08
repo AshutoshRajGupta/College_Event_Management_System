@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "ashu";
+$servername = "127.0.0.1";
+$username = "root";
 $password = "";
-$dbname = "cemss";
+$dbname = "cems";
 
 
 // Create connection
