@@ -4,7 +4,7 @@
     <style>
 .bgImage 
 {
-    background-image: url(images/cs03.jpg);
+    background-image: url(images/header2.jpg);
     background-size: cover;
     background-position: center center;
     height: 600px;
@@ -22,7 +22,8 @@
             <div class="navbar-header"><!--website name/title-->
              
                 <a class = "navbar-brand">
-                    College Event Management System
+                <h2 style="color:yellow;margin-left:-60px;margin-top:-10px;font-size:40px;">Event Management System</h2>
+
                 </a> 
             </div>
             <ul class="nav navbar-nav navbar-right"><!--navigation-->
@@ -38,7 +39,7 @@
     <div class = "col-md-12">
         <div class = "container">
             <div class = "jumbotron"><!--jumbotron-->
-                <h1><strong>Explore<br></strong> Your Favorite Event</h1><!--jumbotron heading-->
+                <h1 style="color:blue;"><strong>Explore<br></strong> Your Favorite Event</h1><!--jumbotron heading-->
                 <div class="browse d-md-flex col-md-14" >
                 <div class="row">
                   

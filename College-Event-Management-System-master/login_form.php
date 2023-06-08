@@ -28,7 +28,7 @@ include_once 'classes/db1.php';?>
                    
         <label>Password</label><br>
         <input type="password" name="password" class="form-control" required><br>
-                        <button type = "submit" name="update" class = "btn btn-default">Login</button>
+                        <button style="color:blue;" type = "submit" name="update" class = "btn btn-default">Login</button>
                     </form>
                 </div><!--col md 6 div-->
             </div><!--container div-->

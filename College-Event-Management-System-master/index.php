@@ -13,7 +13,7 @@
         <div class = "content"><!--body content holder-->
             <div class = "container">
                 <div class = "col-md-12"><!--body content title holder with 12 grid columns-->
-                    <h1 style="color:#000080 ; font-size:42px ; font-style:bold "><strong>  Register your Favourite events:</strong></h1><!--body content title-->
+                    <h1 style="color:red ; font-size:42px ; font-style:bold "><strong>  Register your Favourite events:</strong></h1><!--body content title-->
 
             </div>
             
@@ -32,8 +32,8 @@
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
                         
-                            <h1 style="color:#003300 ; font-size:38px ;" ><u><strong>Technical Events</strong></u></h1><!--title-->
-                            <p><!--content-->
+                            <h1 style="color:darkblue ; font-size:38px ;" ><strong>TECHNICAL EVENTS</strong></h1><!--title-->
+                            <p style="color:red;font-size:15px;"><!--content-->
                                 EMBRACE YOUR TECHNICAL SKILLS BY PARTICIPATING IN OUR DIFFERENT TECHNICAL EVENTS!
                             </p>
                             
@@ -60,8 +60,8 @@
                             <img src="images/gaming.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Gaming Events</u></strong></h1><!--title-->
-                            <p><!--content-->
+                            <h1 style="color:darkblue ; font-size:38px ;"><strong>GAMING EVENTS</strong></h1><!--title-->
+                            <p style="color:red;font-size:15px;"><!--content-->
                                 EMBRACE YOUR GAMING SKILLS BY PARTICIPATING IN OUR DIFFERENT GAMING EVENTS!
                             </p>
                             
@@ -89,8 +89,8 @@
                             <img src="images/onstage.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>On-Stage Events</strong></u></h1><!--title-->
-                            <p><!--content-->
+                            <h1 style="color:darkblue ; font-size:38px ;"><strong>ON-STAGE EVENTS</strong></h1><!--title-->
+                            <p style="color:red;font-size:15px;"><!--content-->
                                 EMBRACE YOUR CONFIDENCE BY PARTICIPATING IN OUR DIFFERENT ON-STAGE EVENTS!
                             </p>
                             
@@ -118,8 +118,8 @@
                             <img src="images/offstage.jpg" class="img-responsive">
                         </div>
                         <div class="subcontent col-md-6"><!--Text holder with 6 column grid-->
-                            <h1 style="color:#003300 ; font-size:38px ;"><strong><u>Off-Stage Events</u></strong></h1><!--title-->
-                            <p><!--content-->
+                            <h1 style="color:darkblue ; font-size:38px ;"><strong>OFF-STAGE EVENTS</strong></h1><!--title-->
+                            <p style="color:red;font-size:15px;"><!--content-->
                                  EMBRACE YOUR TALENT BY PARTICIPATING IN OUR DIFFERENT OFF-STAGE EVENTS!
                             </p>
                             
