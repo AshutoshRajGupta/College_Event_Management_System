@@ -1,4 +1,4 @@
-## WTL_MIni_Project made using different Technologies.
+## WTL_MIni_Project made using different Technologies
 # Technologies used in these Project is :
 #### 1.HTML
 #### 2.CSS
